@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Red Hat | Public Sector</title>
+    <link>http://redhatgov.io/events/</link>
+    <description>Recent content in Events on Red Hat | Public Sector</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://redhatgov.io/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software Defined Storage and Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180222-software-defined-storage-and-automation-workshop-1351c47a1adee5ab433182409e7b2c23/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180222-software-defined-storage-and-automation-workshop-1351c47a1adee5ab433182409e7b2c23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow Toronto</title>
+      <link>http://redhatgov.io/events/20180220-containers-and-cloud-native-roadshow-toronto-bc6ef14981cbfce0974f9e1302cc4af6/</link>
+      <pubDate>Tue, 20 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180220-containers-and-cloud-native-roadshow-toronto-bc6ef14981cbfce0974f9e1302cc4af6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180208-ansible-automation-technical-workshops-96bd686394cf05e2c3b459e41b147d05/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180208-ansible-automation-technical-workshops-96bd686394cf05e2c3b459e41b147d05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180207-ansible-automation-technical-workshops-5e0cd45047b6211a825428e3f185dea9/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180207-ansible-automation-technical-workshops-5e0cd45047b6211a825428e3f185dea9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180201-ansible-automation-technical-workshops-6cdc2bcd55fd172da4ee955cd9c9dd59/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180201-ansible-automation-technical-workshops-6cdc2bcd55fd172da4ee955cd9c9dd59/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow Boston</title>
+      <link>http://redhatgov.io/events/20180201-containers-and-cloud-native-roadshow-boston-5d43ab9c8384d48a80e6d87dfe4d97d3/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180201-containers-and-cloud-native-roadshow-boston-5d43ab9c8384d48a80e6d87dfe4d97d3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180131-ansible-automation-technical-workshops-505e404573460cf7ac37cad9f487c393/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180131-ansible-automation-technical-workshops-505e404573460cf7ac37cad9f487c393/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180130-ansible-automation-technical-workshops-629a4d284fa2f4e8a25bb02af48d9cd1/</link>
+      <pubDate>Tue, 30 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180130-ansible-automation-technical-workshops-629a4d284fa2f4e8a25bb02af48d9cd1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180124-ansible-automation-technical-workshops-fbf5b1c9880a3777b76c5ec7b6a0ffa4/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180124-ansible-automation-technical-workshops-fbf5b1c9880a3777b76c5ec7b6a0ffa4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Defined Storage and Automation Workshop</title>
+      <link>http://redhatgov.io/events/20180124-software-defined-storage-and-automation-workshop-605fab3b105c46e455594e011663b430/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180124-software-defined-storage-and-automation-workshop-605fab3b105c46e455594e011663b430/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Storage and its role in the software-defined datacenter</title>
+      <link>http://redhatgov.io/events/20180123-storage-and-its-role-in-the-software-defined-datacenter-76a694ca0c5ec9256aff098d2b5fa373/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180123-storage-and-its-role-in-the-software-defined-datacenter-76a694ca0c5ec9256aff098d2b5fa373/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ansible Automation Technical Workshops</title>
+      <link>http://redhatgov.io/events/20180118-ansible-automation-technical-workshops-2a83f0d936b7aa76f8ab0246ebca1075/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180118-ansible-automation-technical-workshops-2a83f0d936b7aa76f8ab0246ebca1075/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow</title>
+      <link>http://redhatgov.io/events/20180118-containers-and-cloud-native-roadshow-119ab7490395a911066587eb67123f5d/</link>
+      <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180118-containers-and-cloud-native-roadshow-119ab7490395a911066587eb67123f5d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Containers and Cloud Native Roadshow</title>
+      <link>http://redhatgov.io/events/20180116-containers-and-cloud-native-roadshow-8db0dbefc7cdd450807bd82d53e997d2/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180116-containers-and-cloud-native-roadshow-8db0dbefc7cdd450807bd82d53e997d2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtualization as a path to an optimized, modern datacenter</title>
+      <link>http://redhatgov.io/events/20180110-virtualization-as-a-path-to-an-optimized-modern-datacenter-6c480ccc0b5861db1ae89d4f41fbf427/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://redhatgov.io/events/20180110-virtualization-as-a-path-to-an-optimized-modern-datacenter-6c480ccc0b5861db1ae89d4f41fbf427/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
